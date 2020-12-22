@@ -1,9 +1,32 @@
 /*maldo va funado*/
+
+body{
+   
+
+    background:url(https://wow.zamimg.com/uploads/screenshots/normal/436071-vencer-a-un-jabali.jpg);
+
+
+
+
+}
+
+
+
+
+
+
 #pene{
     color: rgb(0, 0, 0);
     text-shadow: 3px 0px 0px rgb(204, 43, 43);
-    border: 1px solid   black;
-    border-radius: 2px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+    margin-left: 45%;
 
+}
+#penestyle{
+    color: rgb(0, 0, 0);
+    text-shadow: 3px 0px 0px rgb(196, 27, 27);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
 
 }
